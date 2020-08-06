@@ -1,3 +1,4 @@
+# Azure Synapse Scripts and Accelerators
 
 # Contributing
 
