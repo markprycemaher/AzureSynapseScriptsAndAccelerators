@@ -1,1 +1,1 @@
-# AzureSynapseScriptsAndAccelerators
+# Azure Synapse Scripts And Accelerators
